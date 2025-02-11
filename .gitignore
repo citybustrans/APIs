@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CBT.API/appsettings.json
+/CBT.API/appsettings.Development.json
