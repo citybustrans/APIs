@@ -1,9 +1,9 @@
 ﻿namespace CBT.API.Models
 {
-    public class Response<T>
+    public class Response
     {
         public string ResponseCode { get; set; } = string.Empty;
         public string ResponseMessage { get; set; } = string.Empty;
-        public T? Data { get; set; }
+        public object? Data { get; set; }
     }
 }

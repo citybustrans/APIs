@@ -23,12 +23,12 @@ namespace CBT.API.Controllers
         [HttpPost("login")]
         public IActionResult Login(LoginDto model) 
         {
-            var resp = new Response<object>();
+            var resp = new Response();
             try
             {
                 if(string.IsNullOrEmpty(model.UserName) || string.IsNullOrEmpty(model.Password))
                 {
-                    resp = new Response<object>
+                    resp = new Response
                     {
                         Data = null,
                         ResponseCode = "99",
@@ -43,7 +43,7 @@ namespace CBT.API.Controllers
                 Console.WriteLine(ex.Message);
             }
             var jsonUser = JsonSerializer.Serialize(model.UserName);
-            resp = new Response<object>
+            resp = new Response()
             {
                 Data = jsonUser,
                 ResponseCode = "00",
