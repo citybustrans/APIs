@@ -4507,11 +4507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\06832\\Desktop\\CITY BUS TRANSIT\\CBT.API\\CBT.API.csproj",
+      "projectUniqueName": "C:\\Users\\06832\\Desktop\\CBTAPI\\CBT.API\\CBT.API.csproj",
       "projectName": "CBT.API",
-      "projectPath": "C:\\Users\\06832\\Desktop\\CITY BUS TRANSIT\\CBT.API\\CBT.API.csproj",
+      "projectPath": "C:\\Users\\06832\\Desktop\\CBTAPI\\CBT.API\\CBT.API.csproj",
       "packagesPath": "C:\\Users\\06832\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\06832\\Desktop\\CITY BUS TRANSIT\\CBT.API\\obj\\",
+      "outputPath": "C:\\Users\\06832\\Desktop\\CBTAPI\\CBT.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\06832\\AppData\\Roaming\\NuGet\\NuGet.Config",
