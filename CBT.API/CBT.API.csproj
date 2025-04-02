@@ -23,10 +23,10 @@
   <ItemGroup>
     <Folder Include="DTOs\" />
     <Folder Include="Configurations\" />
-    <Folder Include="Middlewares\" />
-    <Folder Include="Utillities\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
+    <Folder Include="Repositories\Interface\" />
+    <Folder Include="Repositories\Implementation\" />
+    <Folder Include="Services\Interface\" />
+    <Folder Include="Services\Implementation\" />
   </ItemGroup>
 
 </Project>
