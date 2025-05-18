@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CBT.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0a434dad8a8fe4af1603de03cb60b5239125276")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2648a81f2413fe7c1e69ac2365a1dc9d87fbb5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CBT.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CBT.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
