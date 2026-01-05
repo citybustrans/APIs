@@ -12,6 +12,8 @@
         public string Email { get; set; } = string.Empty;
         public string PasswordHash { get; set; } = string.Empty;
         public string Role { get; set; } = string.Empty;  // Admin, Driver, Passenger
+        public DateTime DateCreated { get; set; }
+        public DateTime DateUpdated { get; set; }
     }
 
 }
